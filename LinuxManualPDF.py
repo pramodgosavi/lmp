@@ -1,6 +1,6 @@
 #Author and Created by Pramod B Gosavi, feel free to write,
 #mail:gosavi.pramod@gmail.com
-#Please read readme.en before execute
+#Please read README.md before execute
 
 import os
 os.system("rm -rf LinuxManualPDF/")
